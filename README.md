@@ -7,6 +7,8 @@
   <img src="./assets/preview.png" alt="Preview Theme">
 </center>
 
+Mygo!!!!! Theme for for [Zed](https://zed.dev)
+
 ## Installation
 
 1. Clone this repository into your computer.
